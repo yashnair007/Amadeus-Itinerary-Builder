@@ -5,8 +5,8 @@ import requests
 
 # Initialize the Amadeus client
 amadeus = Client(
-    client_id='iA77WQAn7CBuARZF6Brki3he7HkVLOjv',
-    client_secret='5Z3yzVw25M6cd80u'
+    client_id='Put client id',
+    client_secret='Put Secret key'
 )
 
 def search_flights(source, destination, departure_date):
