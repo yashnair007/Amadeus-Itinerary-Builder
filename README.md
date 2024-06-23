@@ -36,3 +36,7 @@ For any questions, issues, or feedback, please reach out to me via the handles p
 License:
 The Amadeus-System is licensed under Amadeus and FourSquare API's. For detailed terms and conditions, please refer to
 https://developers.amadeus.com/
+
+links
+https://docs.foursquare.com/developer-tutorials/recipes
+https://developers.amadeus.com/self-service/apis-docs/guides/developer-guides/examples/code-example/#points-of-interest
